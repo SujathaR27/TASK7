@@ -50,7 +50,7 @@ for country in country_data.countries_with_euro():
 
 import requests
 
-# Define the states you are interested in
+# Define the states  interested in
 states = ['Alaska', 'Maine', 'New York']
 
 # Base URL for Open Brewery DB API
